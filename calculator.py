@@ -9,3 +9,7 @@ def clear_field():
     pass
 
 root = tk.Tk()
+root.geometry("300*275")
+
+
+root.mainloop()
